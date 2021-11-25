@@ -1,0 +1,3 @@
+﻿  ConsoleApplication4.cpp
+C:\Users\Oliver\source\repos\SnakeGame\ConsoleApplication4\ConsoleApplication4.cpp(45,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ConsoleApplication4.vcxproj -> C:\Users\Oliver\source\repos\SnakeGame\Debug\ConsoleApplication4.exe
